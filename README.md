@@ -302,6 +302,34 @@ sudo ip netns exec s1r ip route
 - S2↔S3 : `10.100.23.0/24` (VNI 23)
 
 ---
+## 🎥 Vidéo de Démonstration
 
-**Projet SD-WAN **
+[![Regarder la Démo](https://img.shields.io/badge/▶️_Regarder_la_Démo-red?style=for-the-badge&logo=youtube)](https://github.com/Kawthertlili/SD-WAN-Multi-Site-Network-with-GRE-VXLAN-Tunneling-AI-Chatbot/blob/main/SDWan%20DEMO.mp4)
+
+**Démo complète (1 minute)** : Déploiement, tunnels GRE/VXLAN, contrôleur SDN, chatbot IA, tests de performance
+
+---
+
+## ⚡ Démarrage Rapide (Quick Start)
+
+### Installation en Une Commande
+```bash
+# 1. Téléchargez tous les fichiers du projet
+git clone https://github.com/Kawthertlili/SD-WAN-Multi-Site-Network-with-GRE-VXLAN-Tunneling-AI-Chatbot.git
+cd SD-WAN-Multi-Site-Network-with-GRE-VXLAN-Tunneling-AI-Chatbot
+
+# 2. Rendez les scripts exécutables
+chmod +x *.sh *.py
+
+# 3. Lancez le déploiement complet
+$ sudo ./prepare_demo.sh
+[████████████████████] 100% 
+✅ 3 sites connected
+✅ 12 tunnels alive  
+✅ 1 AI chatbot vibing
+✅ 0 manual configs needed
+
+
+**Remember**: Friends don't let friends configure networks manually 🤝
+
 
