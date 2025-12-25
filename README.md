@@ -322,13 +322,14 @@ cd SD-WAN-Multi-Site-Network-with-GRE-VXLAN-Tunneling-AI-Chatbot
 chmod +x *.sh *.py
 
 # 3. Lancez le déploiement complet
+
 $ sudo ./prepare_demo.sh
 [████████████████████] 100% 
 ✅ 3 sites connected
 ✅ 12 tunnels alive  
 ✅ 1 AI chatbot vibing
 ✅ 0 manual configs needed
-
+```
 
 **Remember**: Friends don't let friends configure networks manually 🤝
 
