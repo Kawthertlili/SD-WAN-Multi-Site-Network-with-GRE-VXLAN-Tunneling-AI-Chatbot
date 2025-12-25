@@ -304,10 +304,11 @@ sudo ip netns exec s1r ip route
 ---
 ## 🎥 Vidéo de Démonstration
 
-[![Regarder la Démo](https://vimeo.com/1149253959?share=copy&fl=sv&fe=ci)
+[![Regarder la Démo](https://img.shields.io/badge/▶️_Regarder_la_Démo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1149253959)
 
 **Démo complète (1 minute)** : Déploiement, tunnels GRE/VXLAN, contrôleur SDN, chatbot IA, tests de performance
 
+> 🎬 Cliquez sur le bouton pour visionner la vidéo complète
 ---
 
 ## ⚡ Démarrage Rapide (Quick Start)
