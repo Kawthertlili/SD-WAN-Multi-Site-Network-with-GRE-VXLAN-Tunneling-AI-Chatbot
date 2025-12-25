@@ -3,6 +3,15 @@
 Architecture SD-WAN interconnectant 3 sites géographiques via tunnels GRE et VXLAN, contrôleur SDN centralisé et chatbot IA pour le monitoring.
 
 ---
+## 🎥 Vidéo de Démonstration
+
+[![Regarder la Démo](https://img.shields.io/badge/▶️_Regarder_la_Démo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1149253959)
+
+**Démo complète (1 minute)** : Déploiement, tunnels GRE/VXLAN, contrôleur SDN, chatbot IA, tests de performance
+
+> 🎬 Cliquez sur le bouton pour visionner la vidéo complète
+---
+
 
 ## 📋 Vue d'ensemble
 
@@ -301,14 +310,6 @@ sudo ip netns exec s1r ip route
 - S1↔S3 : `10.100.13.0/24` (VNI 13)
 - S2↔S3 : `10.100.23.0/24` (VNI 23)
 
----
-## 🎥 Vidéo de Démonstration
-
-[![Regarder la Démo](https://img.shields.io/badge/▶️_Regarder_la_Démo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)](https://vimeo.com/1149253959)
-
-**Démo complète (1 minute)** : Déploiement, tunnels GRE/VXLAN, contrôleur SDN, chatbot IA, tests de performance
-
-> 🎬 Cliquez sur le bouton pour visionner la vidéo complète
 ---
 
 ## ⚡ Démarrage Rapide (Quick Start)
