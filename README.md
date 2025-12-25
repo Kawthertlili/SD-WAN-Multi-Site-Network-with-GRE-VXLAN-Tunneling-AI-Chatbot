@@ -304,7 +304,7 @@ sudo ip netns exec s1r ip route
 ---
 ## 🎥 Vidéo de Démonstration
 
-[![Regarder la Démo](https://img.shields.io/badge/▶️_Regarder_la_Démo-red?style=for-the-badge&logo=youtube)](https://github.com/Kawthertlili/SD-WAN-Multi-Site-Network-with-GRE-VXLAN-Tunneling-AI-Chatbot/blob/main/SDWan%20DEMO.mp4)
+[![Regarder la Démo](https://vimeo.com/1149253959?share=copy&fl=sv&fe=ci)
 
 **Démo complète (1 minute)** : Déploiement, tunnels GRE/VXLAN, contrôleur SDN, chatbot IA, tests de performance
 
